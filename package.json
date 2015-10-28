@@ -22,7 +22,7 @@
     "url": "https://github.com/clystian/oracle-querier.git"
   },
   "dependencies": {
-    "edge": "^0.10.1"
+    "edge": "^4.0.0"
   },
   "main": "./index.js"
 }
