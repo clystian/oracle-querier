@@ -1,0 +1,28 @@
+{
+  "name": "oracle-querier",
+  "description": "Oracle database driver",
+  "keywords": ["database", "db", "oracle","driver","dotnet",".net","windows"],
+  "homepage": "https://github.com/clystian/oracle-querier",
+  "license": "MIT",
+  "version": "0.1.0",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "maintainers": [
+    {
+      "name": "Cristian Hernandez",
+      "email": "clystiang@gmail.com"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/clystian/oracle-querier/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clystian/oracle-querier.git"
+  },
+  "dependencies": {
+    "edge": "^0.10.1"
+  },
+  "main": "./index.js"
+}
